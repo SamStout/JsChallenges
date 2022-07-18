@@ -6,7 +6,7 @@ function isNumberPositive (number) {
 }
     console.log (isNumberPositive(10));
 
-//2. Convert days to age
+//2. Convert days to 
 function convertDaysToAge (days) {
     age = (days/365);
     return(age)
